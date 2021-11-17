@@ -1,0 +1,1 @@
+In this repository I develop a book index application using JavaScript. Initially the user can either choose to search books by category or to see all the books ordered by page number.

@@ -52,6 +52,15 @@ const books = [
     pages: 231,
     recommend: true,
     read: true
+  },
+  {
+    id: 7,
+    title: "Especialista em Pessoas",
+    author: "Tiago Brunet",
+    category: "Life style",
+    pages: 224,
+    recommend: false,
+    read: false
   }
 ]
 

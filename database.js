@@ -3,46 +3,36 @@ const books = [
     id: 1,
     title: "Digital Minimalism",
     author: "Cal Newport",
-    category: "Life style and productivity",
-    pages: 254,
-    recommend: false,
-    read: false
+    category: "Productivity",
+    pages: 254
   },
   {
     id: 2,
     title: "The First 90 Days",
     author: "Michael Watkins",
-    category: "Life style and productivity",
-    pages: 240,
-    recommend: true,
-    read: true
+    category: "Productivity",
+    pages: 240
   },
   {
     id: 3,
     title: "Do Mil ao Milhão",
     author: "Thiago Nigro",
-    category: "Life style and finances",
-    pages: "192",
-    recommend: false,
-    read: false
+    category: "Finances",
+    pages: 192
   },
   {
     id: 4,
     title: "Algoritmos para Viver",
     author: "Brian Christian",
     category: "Technology",
-    pages: 412,
-    recommend: true,
-    read: true
+    pages: 412
   },
   {
     id: 5,
     title: "Thinking, Fast and Slow",
     author: "Daniel Kahneman",
     category: "Life style",
-    pages: 418,
-    recommend: true,
-    read: true
+    pages: 418
   },
   {
     id: 6,
@@ -50,17 +40,13 @@ const books = [
     author: "Stoyan Stefanov",
     category: "Technology",
     pages: 231,
-    recommend: true,
-    read: true
   },
   {
     id: 7,
     title: "Especialista em Pessoas",
     author: "Tiago Brunet",
     category: "Life style",
-    pages: 224,
-    recommend: false,
-    read: false
+    pages: 224
   }
 ]
 

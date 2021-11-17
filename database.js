@@ -39,7 +39,7 @@ const books = [
     id: 5,
     title: "Thinking, Fast and Slow",
     author: "Daniel Kahneman",
-    category: "Life Style",
+    category: "Life style",
     pages: 418,
     recommend: true,
     read: true
